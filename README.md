@@ -1,11 +1,6 @@
 # Ahmed Zienhom  
 
 ## 💻 Full-Stack Developer | Angular | .NET | SQL Server  
-<div align="right">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhsNGVnZXA2cHdpZzBvNHQwanVkZXU3b21oY2VsMDBqZmg0dG1qNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.gif"  />
-</div>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
