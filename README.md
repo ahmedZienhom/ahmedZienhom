@@ -14,14 +14,15 @@ I am a **Full-Stack Developer** specializing in building scalable and high-perfo
 ### 📂 Featured Projects  
 #### 🎮 **Games**  
 - 🟢 **[Guess Game](https://ahmedzienhom.github.io/guess-game/)** – A fun number-guessing game. [🔗 Source Code](https://github.com/ahmedZienhom/guess-game)  
-- 🐍 **[Snake Game - Angular](https://ahmedzienhom.github.io/snake-game/)** – A classic snake game built with Angular.  
+- 🐍 **[Snake Game - Angular](https://ahmedzienhom.github.io/angular-snaeGame/)** – A classic snake game built with Angular. [🔗 Source Code](https://github.com/ahmedZienhom/snake-game)  
+- 🕹️ **[Games Review App](https://ahmedzienhom.github.io/JS-assignment-6-Sun-Wed-7Pm-Dokki-ahmed-zienhom/)** – A platform for reviewing video games. [🔗 Source Code](https://github.com/ahmedZienhom/JS-assignment-6-Sun-Wed-7Pm-Dokki-ahmed-zienhom)  
 
 #### 🍽️ **Food & Recipes**  
-- 🍕 **[Food Recipes App](https://ahmedzienhom.github.io/JS-assignment-6-Sun-Wed-7Pm-Dokki-ahmed-zienhom/)** – A recipe app that fetches data from an API and displays detailed food recipes.  
+- 🍕 **[Food Review App](https://ahmedzienhom.github.io/JS-exam-Sun-Wed-7Pm-Dokki-ahmed-zienhom/)** – A food review application displaying restaurant ratings and dish recommendations. [🔗 Source Code](https://github.com/ahmedZienhom/JS-exam-Sun-Wed-7Pm-Dokki-ahmed-zienhom)  
 
 #### 🛠️ **Utilities & Tools**  
-- 🎨 **[jQuery Responsive App](https://ahmedzienhom.github.io/jQuery-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom/#home)** – A dynamic and interactive web app built with jQuery.  
-- 📌 **[Angular Standalone Components App](https://ahmedzienhom.github.io/angular-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom/home)** – Showcasing Angular's standalone component architecture.  
+- 🎨 **[jQuery Responsive App](https://ahmedzienhom.github.io/jQuery-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom/#home)** – A dynamic and interactive web app built with jQuery. [🔗 Source Code](https://github.com/ahmedZienhom/jQuery-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom)  
+- 📌 **[Angular Standalone Components App](https://ahmedzienhom.github.io/angular-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom/home)** – Showcasing Angular's standalone component architecture. [🔗 Source Code](https://github.com/ahmedZienhom/angular-assignment-1-Sun-Wed-7Pm-Dokki-ahmed-zienhom)  
 
 ### 📫 Connect with Me  
 📧 **Email:** [ahmedanafy@gmail.com](mailto:ahmedanafy@gmail.com)  
@@ -30,6 +31,9 @@ I am a **Full-Stack Developer** specializing in building scalable and high-perfo
 🐙 **GitHub:** [AhmedZienhom](https://github.com/ahmedZienhom)  
 
 ---
+
+🚀 **"Master the fundamentals, and creativity becomes limitless!"**  
+
 <!--
 **ahmedZienhom/ahmedZienhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
